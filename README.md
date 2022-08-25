@@ -1,7 +1,7 @@
 <div align='center'>
   <img src="https://i.postimg.cc/LsXWGHRg/Screen-Shot-2022-07-31-at-8-30-46-PM.png"></img>
   <h3> 
-    Developers: Mineh Gharabegi, Amy Lopez, Josh Salcido, and Michael Dasch 
+    Developers: Mineh Gharabegi and Michael Dasch 
   </h3>
   <p align='center'>
     ·
